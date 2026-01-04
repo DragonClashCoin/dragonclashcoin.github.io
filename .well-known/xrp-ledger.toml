@@ -1,0 +1,38 @@
+[METADATA]
+updated = "2025-12-30T00:00:00Z"
+
+[[ISSUERS]]
+address = "rHW6xJ2SE6JNYKztNDexNFEGsgpSaCRwoo"  # Your XRPL issuing address (required)
+name = "Dragon Clash"
+desc = "DRGN is a utility token on the XRP Ledger (XRPL) designed to facilitate rewards in skill-based, competitive games. No affiliation with Dragonchain."
+
+[[TOKENS]]
+issuer = "rHW6xJ2SE6JNYKztNDexNFEGsgpSaCRwoo"  # Same as above
+currency = "DRGN"  # Your token currency code
+name = "Dragon Clash Coin"
+desc = "DRGN is a utility token on the XRP Ledger (XRPL) designed to facilitate rewards in skill-based, competitive games. No affiliation with Dragonchain."
+icon = "https://img1.wsimg.com/isteam/ip/7be9612b-ae44-469b-95ee-ee2bdd799185/DragonCoinBlackSquare.jpg/:/"  # Direct HTTPS URL to your square PNG logo (256x256 or higher, transparent background recommended)
+
+[[TOKENS.CATEGORIES]]
+category = "gaming"
+
+[[TOKENS.CATEGORIES]]
+category = "fantasy"
+
+[[TOKENS.CATEGORIES]]
+category = "utility"
+
+[[TOKENS.CATEGORIES]]
+category = "community"
+
+[[TOKENS.URLS]]
+url = "https://dragonclasharena.com"
+type = "website"
+
+[[TOKENS.URLS]]
+url = "https://dragonclasharena.com/whitepaper.pdf"  # Optional: add if you have one
+type = "whitepaper"
+
+[[TOKENS.URLS]]
+url = "https://x.com/DragonClashCoin"
+type = "social"
